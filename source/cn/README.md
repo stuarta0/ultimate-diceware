@@ -1,24 +1,9 @@
-Language: Chinese
+**Language:** Chinese
 
-=== Primary wordlist
+**Primary:** https://github.com/cfbao/chinese-diceware/blob/master/pinyin.wordlist  
+Author(s): [Chenfeng Bao](https://github.com/cfbao/chinese-diceware)  
+License: CC-BY 4.0 (https://github.com/cfbao/chinese-diceware)
 
-Pinyin wordlist (https://github.com/cfbao/chinese-diceware)
-
-License: CC-BY 4.0
-
-=== Secondary wordlist
-
-Wubi wordlist (ASCII representation only) (https://github.com/cfbao/chinese-diceware)
-
-License: CC-BY 4.0
-
-
-== Additional lists
-
-=== Pinyin
-
-Includes the Pinyin wordlist, with the ASCII text in the primary column, and the Chinese characters in the secondary column.
-
-=== Wubi
-
-Includes the Wubi wordlist, with the ASCII text in the primary column, and the Chinese characters in the secondary column.
+**Secondary:** https://github.com/cfbao/chinese-diceware/blob/master/wubi.wordlist  
+Author(s): [Chenfeng Bao](https://github.com/cfbao/chinese-diceware)  
+License: CC-BY 4.0 (https://github.com/cfbao/chinese-diceware)

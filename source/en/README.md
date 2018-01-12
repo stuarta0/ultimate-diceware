@@ -1,13 +1,13 @@
-Language: English
+**Language:** English
 
-=== Primary wordlist
+**Primary:** http://world.std.com/~reinhold/diceware.wordlist.asc
 
-Diceware wordlist (http://www.diceware.com)
+Author(s): [A G Reinhold](http://www.diceware.com)
 
-License: A G Reinhold licenses its rights to the English Diceware Wordlist under the Creative Commons CC-BY 4.0 license.
+License: CC-BY 4.0 (http://www.diceware.com)
 
-=== Secondary wordlist
+**Secondary:** https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt
 
-Electronic Frontiers Foundation wordlist (https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
+Author(s): [Electronic Frontiers Foundation](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
 
-License: Any and all original material on the EFF website may be freely distributed at will under the Creative Commons Attribution License (https://www.eff.org/copyright).
+License: CC-BY 4.0 (https://www.eff.org/copyright)
